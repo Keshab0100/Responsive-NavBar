@@ -3,8 +3,8 @@
     font-family: cursive;
     --text-primary: #b6b6b6;
     --text-secondary: #cecece;
-    --color-primary: rgb(30, 30, 30);
-    --color-secondary: rgb(99, 44, 150);
+    --color-primary: #0c457d;
+    --color-secondary: #ffbe4f;
 }
 body{
     /* background-color: white; */
